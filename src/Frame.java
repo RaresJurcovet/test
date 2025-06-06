@@ -23,7 +23,7 @@ textField.setBounds(20,180,200,30);
 add(textField);
 
 writeButton=new JButton("write");
-writeButton.setBounds(230,180,100,30);
+writeButton.setBounds(200,200,100,30);
 add(writeButton);
 
 writeButton.addActionListener(new ActionListener()

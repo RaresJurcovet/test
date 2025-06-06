@@ -58,7 +58,7 @@ else {
             }catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            SwingUtilities.invokeLater(()->textarea.append(msg));
+
         }
     }
         }
